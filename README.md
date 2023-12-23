@@ -1,6 +1,6 @@
 Hi there 👋 <br />
 I'm Rayhan, <br />
-I'm a Frontend Web Developer
+I'm a Angular Frontend Web Developer
 
 <!--
 **rayhanalkhair/rayhanalkhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
